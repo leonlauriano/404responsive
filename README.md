@@ -23,11 +23,11 @@ Links que ele disponibiliza na descrição:
 📂 Assets 
 * Icons: https://boxicons.com/
 * Fonts: https://fonts.google.com/
-* GitHub: https://github.com/bedimcode/responsi...
+* GitHub: https://github.com/bedimcode
 * ScrollReveal: https://scrollrevealjs.org/
 
 🔗 Projeto original no github do Bedimcode
-https://github.com/bedimcode/responsi...
+https://github.com/bedimcode/responsive-404-page
 
 ✒️ Inspiração do Bedimcode veio do design Goran Radeski https://www.instagram.com/p/CdJFG5isg61/
 
